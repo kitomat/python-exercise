@@ -1,0 +1,9 @@
+def funkce1():
+    ...
+def funkce2():
+    ...
+def funkce3():
+    ...
+def funkce4():
+    cislo1=12
+    cislo2=10
